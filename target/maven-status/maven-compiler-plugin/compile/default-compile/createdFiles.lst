@@ -1,6 +1,7 @@
 com\mycompany\latihanjavapertemuan6\DemoMethodReturn.class
 com\mycompany\latihanjavapertemuan6\RunMahasiswaEnkapsulasi.class
 com\mycompany\latihanjavapertemuan6\MahasiswaEnkapsulasi.class
+com\mycompany\latihanjavapertemuan6\RunProduct.class
 com\mycompany\latihanjavapertemuan6\RunMahasiswa.class
 com\mycompany\latihanjavapertemuan6\Pertemuan7.class
 com\mycompany\latihanjavapertemuan6\PenjumlahanMatriks.class
@@ -8,6 +9,7 @@ com\mycompany\latihanjavapertemuan6\LatihanJavaPertemuan6.class
 com\mycompany\latihanjavapertemuan6\TampilkanMatriks.class
 com\mycompany\latihanjavapertemuan6\Mahasiswa.class
 com\mycompany\latihanjavapertemuan6\Pertemuan8.class
+com\mycompany\latihanjavapertemuan6\Product.class
 com\mycompany\latihanjavapertemuan6\MenghitungRataRataNilai.class
 com\mycompany\latihanjavapertemuan6\PerpustakaanMini.class
 com\mycompany\latihanjavapertemuan6\NilaiMahasiswa.class
