@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.latihanjavapertemuan6;
+package com.mycompany.latihanjavapertemuan6.pertemuan7;
 
 /**
  *
