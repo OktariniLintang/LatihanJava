@@ -4,8 +4,11 @@ com\mycompany\latihanjavapertemuan6\pertemuan11\Pegawai.class
 com\mycompany\latihanjavapertemuan6\pertemuan9\Laptop.class
 com\mycompany\latihanjavapertemuan6\pertemuan10\RunMahasiswaEnkapsulasi.class
 com\mycompany\latihanjavapertemuan6\pertemuan7\NilaiMahasiswa.class
+com\mycompany\latihanjavapertemuan6\pertemuan12\KebunBinatang.class
 com\mycompany\latihanjavapertemuan6\PertemuanKe12\Demopolimorfisme.class
 com\mycompany\latihanjavapertemuan6\pertemuan10\MahasiswaEnkapsulasi.class
+com\mycompany\latihanjavapertemuan6\pertemuan12\DemoPolimorfisme.class
+com\mycompany\latihanjavapertemuan6\pertemuan12\Kucing.class
 com\mycompany\latihanjavapertemuan6\pertemuan9\RunLaptop.class
 com\mycompany\latihanjavapertemuan6\pertemuan8\KalkulatorMethod.class
 com\mycompany\latihanjavapertemuan6\LatihanJavaPertemuan6.class
@@ -14,6 +17,7 @@ com\mycompany\latihanjavapertemuan6\pertemuan7\TampilkanMatriks.class
 com\mycompany\latihanjavapertemuan6\TugasManProduct.class
 com\mycompany\latihanjavapertemuan6\PertemuanKe12\Kucing.class
 com\mycompany\latihanjavapertemuan6\pertemuan8\PerpustakaanMini.class
+com\mycompany\latihanjavapertemuan6\pertemuan12\Hewan.class
 com\mycompany\latihanjavapertemuan6\PertemuanKe12\Hewan.class
 com\mycompany\latihanjavapertemuan6\pertemuan8\DemoMethodReturn.class
 com\mycompany\latihanjavapertemuan6\pertemuan7\Pertemuan7.class
@@ -26,6 +30,7 @@ com\mycompany\latihanjavapertemuan6\InputArray.class
 com\mycompany\latihanjavapertemuan6\PertemuanKe12\Anjing.class
 com\mycompany\latihanjavapertemuan6\pertemuan10\Product.class
 com\mycompany\latihanjavapertemuan6\pertemuan10\RunProduct.class
+com\mycompany\latihanjavapertemuan6\pertemuan12\Anjing.class
 com\mycompany\latihanjavapertemuan6\pertemuan8\Pertemuan8.class
 com\mycompany\latihanjavapertemuan6\pertemuan9\Mahasiswa.class
 com\mycompany\latihanjavapertemuan6\DaftarNamaTamu.class
